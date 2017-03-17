@@ -13,8 +13,5 @@
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
-<h1>加油!!</h1>
-<h1>加油2!!</h1>
-<h1>加油3!!</h1>
 </body>
 </html>
